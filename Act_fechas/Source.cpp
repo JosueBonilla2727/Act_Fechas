@@ -4,7 +4,7 @@
 	Josue Bonilla Cárdenas
 	Reg:22110106
 	CETI colomos
-	19/Septiembre/2022
+	21/Septiembre/2022
 **/
 
 #include<iostream>
@@ -26,5 +26,5 @@ void main(){
 
 	fechas.setFecha(fecha);
 
-	fechas.fechas();
+	fechas.cambio_variables();
 };
